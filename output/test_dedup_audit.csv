@@ -1,0 +1,145 @@
+Wellbore,Casing type,Casing diameter [in],Casing depth [m],Hole diameter [in],Hole depth [m],LOT/FIT mud eqv. [g/cm3],Formation test type,Source document,Source URL,Evidence,Confidence
+7/11-2,Conductor,30,132,36,132,,,156_7_11_2_WELL_COMPLETION_REPORT_PRODUCTION_LICENSE_018,https://factpages.sodir.no/pbl/wellbore_documents/156_7_11_2_WELL_COMPLETION_REPORT_PRODUCTION_LICENSE_018.PDF,"AI_EXTRACTED: [
+  {
+    ""wellbore"": ""7/11-2"",
+    ""casing_type"": ""Conductor"",
+    ""casing_diameter_in"": 30,
+    ""casing_depth_m"": 132,
+    ""hole_diameter_in"": 36,
+    ""hole_depth_m"": 132,
+    ""lot_fit_mud_eqv_g_cm3",0.85
+7/11-2,Surface,20,484,26,484,,,156_7_11_2_WELL_COMPLETION_REPORT_PRODUCTION_LICENSE_018,https://factpages.sodir.no/pbl/wellbore_documents/156_7_11_2_WELL_COMPLETION_REPORT_PRODUCTION_LICENSE_018.PDF,"AI_EXTRACTED: [
+  {
+    ""wellbore"": ""7/11-2"",
+    ""casing_type"": ""Conductor"",
+    ""casing_diameter_in"": 30,
+    ""casing_depth_m"": 132,
+    ""hole_diameter_in"": 36,
+    ""hole_depth_m"": 132,
+    ""lot_fit_mud_eqv_g_cm3",0.85
+7/11-2,Intermediate,13.375,1945,17.375,1945,,,156_7_11_2_WELL_COMPLETION_REPORT_PRODUCTION_LICENSE_018,https://factpages.sodir.no/pbl/wellbore_documents/156_7_11_2_WELL_COMPLETION_REPORT_PRODUCTION_LICENSE_018.PDF,"AI_EXTRACTED: [
+  {
+    ""wellbore"": ""7/11-2"",
+    ""casing_type"": ""Conductor"",
+    ""casing_diameter_in"": 30,
+    ""casing_depth_m"": 132,
+    ""hole_diameter_in"": 36,
+    ""hole_depth_m"": 132,
+    ""lot_fit_mud_eqv_g_cm3",0.85
+7/11-2,Production,9.625,3203,12.25,3203,,,156_7_11_2_WELL_COMPLETION_REPORT_PRODUCTION_LICENSE_018,https://factpages.sodir.no/pbl/wellbore_documents/156_7_11_2_WELL_COMPLETION_REPORT_PRODUCTION_LICENSE_018.PDF,"AI_EXTRACTED: [
+  {
+    ""wellbore"": ""7/11-2"",
+    ""casing_type"": ""Conductor"",
+    ""casing_diameter_in"": 30,
+    ""casing_depth_m"": 132,
+    ""hole_diameter_in"": 36,
+    ""hole_depth_m"": 132,
+    ""lot_fit_mud_eqv_g_cm3",0.85
+7/11-1,Conductor,30,140,36,140,,,149_7_11_1_WELL_COMPLETION_REPORT_1,https://factpages.sodir.no/pbl/wellbore_documents/149_7_11_1_WELL_COMPLETION_REPORT_1.PDF,"AI_EXTRACTED: [
+  {
+    ""wellbore"": ""7/11-1"",
+    ""casing_type"": ""Conductor"",
+    ""casing_diameter_in"": 30,
+    ""casing_depth_m"": 140,
+    ""hole_diameter_in"": 36,
+    ""hole_depth_m"": 140,
+    ""lot_fit_mud_eqv_g_cm3",0.85
+7/11-1,Surface,20,457,26,457,,,149_7_11_1_WELL_COMPLETION_REPORT_1,https://factpages.sodir.no/pbl/wellbore_documents/149_7_11_1_WELL_COMPLETION_REPORT_1.PDF,"AI_EXTRACTED: [
+  {
+    ""wellbore"": ""7/11-1"",
+    ""casing_type"": ""Conductor"",
+    ""casing_diameter_in"": 30,
+    ""casing_depth_m"": 140,
+    ""hole_diameter_in"": 36,
+    ""hole_depth_m"": 140,
+    ""lot_fit_mud_eqv_g_cm3",0.85
+7/11-1,Intermediate,13.375,1964,17.375,1964,,,149_7_11_1_WELL_COMPLETION_REPORT_1,https://factpages.sodir.no/pbl/wellbore_documents/149_7_11_1_WELL_COMPLETION_REPORT_1.PDF,"AI_EXTRACTED: [
+  {
+    ""wellbore"": ""7/11-1"",
+    ""casing_type"": ""Conductor"",
+    ""casing_diameter_in"": 30,
+    ""casing_depth_m"": 140,
+    ""hole_diameter_in"": 36,
+    ""hole_depth_m"": 140,
+    ""lot_fit_mud_eqv_g_cm3",0.85
+7/11-1,Production,9.625,3124,12.25,3124,,,149_7_11_1_WELL_COMPLETION_REPORT_1,https://factpages.sodir.no/pbl/wellbore_documents/149_7_11_1_WELL_COMPLETION_REPORT_1.PDF,"AI_EXTRACTED: [
+  {
+    ""wellbore"": ""7/11-1"",
+    ""casing_type"": ""Conductor"",
+    ""casing_diameter_in"": 30,
+    ""casing_depth_m"": 140,
+    ""hole_diameter_in"": 36,
+    ""hole_depth_m"": 140,
+    ""lot_fit_mud_eqv_g_cm3",0.85
+7/11-3,Conductor,20,172,26,172,,,159_7_11_3_WELL_COMPLETION_REPORT-1,https://factpages.sodir.no/pbl/wellbore_documents/159_7_11_3_WELL_COMPLETION_REPORT-1.PDF,"AI_EXTRACTED: [
+  {
+    ""wellbore"": ""7/11-3"",
+    ""casing_type"": ""Conductor"",
+    ""casing_diameter_in"": 20,
+    ""casing_depth_m"": 172,
+    ""hole_diameter_in"": 26,
+    ""hole_depth_m"": 172,
+    ""lot_fit_mud_eqv_g_cm3",0.85
+7/11-3,Surface,13.375,496,17.5,496,,,159_7_11_3_WELL_COMPLETION_REPORT-1,https://factpages.sodir.no/pbl/wellbore_documents/159_7_11_3_WELL_COMPLETION_REPORT-1.PDF,"AI_EXTRACTED: [
+  {
+    ""wellbore"": ""7/11-3"",
+    ""casing_type"": ""Conductor"",
+    ""casing_diameter_in"": 20,
+    ""casing_depth_m"": 172,
+    ""hole_diameter_in"": 26,
+    ""hole_depth_m"": 172,
+    ""lot_fit_mud_eqv_g_cm3",0.85
+7/11-3,Intermediate,9.625,1972,12.25,1972,,,159_7_11_3_WELL_COMPLETION_REPORT-1,https://factpages.sodir.no/pbl/wellbore_documents/159_7_11_3_WELL_COMPLETION_REPORT-1.PDF,"AI_EXTRACTED: [
+  {
+    ""wellbore"": ""7/11-3"",
+    ""casing_type"": ""Conductor"",
+    ""casing_diameter_in"": 20,
+    ""casing_depth_m"": 172,
+    ""hole_diameter_in"": 26,
+    ""hole_depth_m"": 172,
+    ""lot_fit_mud_eqv_g_cm3",0.85
+7/11-3,Production,7,3341,,,,,159_7_11_3_WELL_COMPLETION_REPORT-1,https://factpages.sodir.no/pbl/wellbore_documents/159_7_11_3_WELL_COMPLETION_REPORT-1.PDF,"AI_EXTRACTED: [
+  {
+    ""wellbore"": ""7/11-3"",
+    ""casing_type"": ""Conductor"",
+    ""casing_diameter_in"": 20,
+    ""casing_depth_m"": 172,
+    ""hole_diameter_in"": 26,
+    ""hole_depth_m"": 172,
+    ""lot_fit_mud_eqv_g_cm3",0.85
+7/11-3,Conductor,20,172,26,172,,,159_7_11_3_WELL_COMPLETION_REPORT-2,https://factpages.sodir.no/pbl/wellbore_documents/159_7_11_3_WELL_COMPLETION_REPORT-2.PDF,"AI_EXTRACTED: [
+  {
+    ""wellbore"": ""7/11-3"",
+    ""casing_type"": ""Conductor"",
+    ""casing_diameter_in"": 20,
+    ""casing_depth_m"": 172,
+    ""hole_diameter_in"": 26,
+    ""hole_depth_m"": 172,
+    ""lot_fit_mud_eqv_g_cm3",0.85
+7/11-3,Surface,13.375,496,17.5,496,,,159_7_11_3_WELL_COMPLETION_REPORT-2,https://factpages.sodir.no/pbl/wellbore_documents/159_7_11_3_WELL_COMPLETION_REPORT-2.PDF,"AI_EXTRACTED: [
+  {
+    ""wellbore"": ""7/11-3"",
+    ""casing_type"": ""Conductor"",
+    ""casing_diameter_in"": 20,
+    ""casing_depth_m"": 172,
+    ""hole_diameter_in"": 26,
+    ""hole_depth_m"": 172,
+    ""lot_fit_mud_eqv_g_cm3",0.85
+7/11-3,Intermediate,9.625,1972,12.25,1972,,,159_7_11_3_WELL_COMPLETION_REPORT-2,https://factpages.sodir.no/pbl/wellbore_documents/159_7_11_3_WELL_COMPLETION_REPORT-2.PDF,"AI_EXTRACTED: [
+  {
+    ""wellbore"": ""7/11-3"",
+    ""casing_type"": ""Conductor"",
+    ""casing_diameter_in"": 20,
+    ""casing_depth_m"": 172,
+    ""hole_diameter_in"": 26,
+    ""hole_depth_m"": 172,
+    ""lot_fit_mud_eqv_g_cm3",0.85
+7/11-3,Production,7,3341,,3350,,,159_7_11_3_WELL_COMPLETION_REPORT-2,https://factpages.sodir.no/pbl/wellbore_documents/159_7_11_3_WELL_COMPLETION_REPORT-2.PDF,"AI_EXTRACTED: [
+  {
+    ""wellbore"": ""7/11-3"",
+    ""casing_type"": ""Conductor"",
+    ""casing_diameter_in"": 20,
+    ""casing_depth_m"": 172,
+    ""hole_diameter_in"": 26,
+    ""hole_depth_m"": 172,
+    ""lot_fit_mud_eqv_g_cm3",0.85

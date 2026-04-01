@@ -1,0 +1,15 @@
+Wellbore,Casing type,Casing diameter [in],Casing depth [m],Hole diameter [in],Hole depth [m],LOT/FIT mud eqv. [g/cm3],Formation test type
+7/11-2,Conductor,30,132,36,132,,
+7/11-2,Surface,20,484,26,484,,
+7/11-2,Intermediate,13.375,1945,,1945,,
+7/11-2,Production,9.625,3203,,3203,,
+7/11-1,Conductor,30,140,,140,,
+7/11-1,Surface,20,457,,457,,
+7/11-1,Intermediate,13.375,1964,,1964,,
+7/11-3,Conductor,20,172,26,172,,
+7/11-3,Surface,13.375,496,,496,,
+7/11-3,Intermediate,9.625,1972,,1972,,
+7/11-3,Production,7,3341,,3341,,
+7/11-7,,,1379,,,4.7,LOT
+7/11-7,,,6,,,,LOT
+7/11-7,,,5495,,,1.83,LOT

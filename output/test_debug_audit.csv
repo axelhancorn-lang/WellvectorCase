@@ -1,0 +1,4 @@
+Wellbore,Casing type,Casing diameter [in],Casing depth [m],Hole diameter [in],Hole depth [m],LOT/FIT mud eqv. [g/cm3],Formation test type,Source document,Source URL,Evidence,Confidence
+7/11-7,,,1379,,,4.7,LOT,57_01_WDSS_General_Information,https://factpages.sodir.no/pbl/wdss_old/57_01_WDSS_General_Information.pdf,"Ti. > 16"" 1379 M LOT 4.70 G/CM3",0.55
+7/11-7,,,6,,,,LOT,57_01_WDSS_General_Information,https://factpages.sodir.no/pbl/wdss_old/57_01_WDSS_General_Information.pdf,"Sb 13 378"" S1S6M LOT 1.80 G/CM",0.55
+7/11-7,,,5495,,,1.83,LOT,57_01_WDSS_General_Information,https://factpages.sodir.no/pbl/wdss_old/57_01_WDSS_General_Information.pdf,"&b 9 5/8"" 5495 M LOT 1.83 G/CM3",0.55

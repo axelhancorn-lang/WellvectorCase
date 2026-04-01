@@ -1,0 +1,5 @@
+pypdf>=4.0.0
+PyMuPDF>=1.23.0
+
+[anthropic]
+anthropic>=0.18.0

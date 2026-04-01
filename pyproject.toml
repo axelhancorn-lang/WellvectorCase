@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "wellvector-pipeline"
+version = "0.1.0"
+description = "Extract casing design data from SODIR PDF documents"
+requires-python = ">=3.10"
+dependencies = [
+    "pypdf>=4.0.0",
+    "PyMuPDF>=1.23.0",
+]
+
+[project.optional-dependencies]
+anthropic = ["anthropic>=0.18.0"]
+
+[project.scripts]
+wellvector = "wellvector_pipeline.cli:main"

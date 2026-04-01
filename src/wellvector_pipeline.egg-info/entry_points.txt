@@ -1,0 +1,2 @@
+[console_scripts]
+wellvector = wellvector_pipeline.cli:main
