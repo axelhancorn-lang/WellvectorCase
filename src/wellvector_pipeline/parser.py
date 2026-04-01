@@ -278,8 +278,10 @@ def _parse_casing_line(
 
     # Reject spurious records: if casing_type is set, casing_depth is required
     # (every real casing string has a depth; records without depth are garbage)
-    if record.casing_type and record.casing_depth_m is None:
-        return None
+    # Also require minimum depth - real casings are at least 10m, not <1m (which would be OCR garbage)
+    if record.casing_type:
+        if record.casing_depth_m is None or record.casing_depth_m < 10:
+            return None
 
     if not any(
         [

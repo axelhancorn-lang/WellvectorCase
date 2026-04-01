@@ -1,0 +1,17 @@
+# PDFs cached from SODIR (large binary files)
+cache/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Environment
+.env

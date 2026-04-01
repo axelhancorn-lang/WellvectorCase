@@ -52,7 +52,9 @@
       "Bash(PYTHONPATH=src python3 -m wellvector_pipeline.cli single-pdf \"cache/149_7_11_1_WELL_COMPLETION_REPORT_httpsfactpagessodirnopblwellbore_documents149_7_11_1_WELL_COMPLETION_REPORTPDF.PDF\" --wellbore 7/11-1)",
       "Bash(ls -la src/wellvector_pipeline/__pycache__/*.pyc)",
       "Bash(python3 -m wellvector_pipeline.cli run data/wellbore_document_7_11.csv --max-docs-per-wellbore 5 --cache-dir cache --output output/casing_output.csv --audit output/casing_audit.csv)",
-      "Bash(python3:*)"
+      "Bash(python3:*)",
+      "Bash(PYTHONPATH=src python3 -m wellvector_pipeline.cli run data/wellbore_document_7_11.csv --cache-dir cache --output output/casing_output.csv --audit output/casing_audit.csv --no-ai-fallback)",
+      "Bash(PYTHONPATH=src python3 -m wellvector_pipeline.cli single-pdf /Users/axelhancorn/demo.pdf --wellbore \"7/11-2\")"
     ]
   }
 }

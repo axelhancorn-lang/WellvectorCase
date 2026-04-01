@@ -27,7 +27,7 @@ except ImportError:
 
 # Maximum file size to attempt with PyMuPDF (in bytes)
 # Large PDFs can cause memory/decompression issues
-MAX_PYMUPDF_SIZE = 10 * 1024 * 1024  # 10 MB - be conservative with decompression issues
+MAX_PYMUPDF_SIZE = 50 * 1024 * 1024  # 50 MB - allow large scanned documents
 
 
 def extract_document_text(
